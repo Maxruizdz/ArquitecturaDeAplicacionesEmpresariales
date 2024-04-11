@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.deps.json
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.csproj.CopyComplete
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
