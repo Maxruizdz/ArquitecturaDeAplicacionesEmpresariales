@@ -13,9 +13,9 @@ namespace Pacagroup.Ecommerce.Infraestructure.Repository
     public class CustomersRepository : ICustomerRepository
     {
 
-        private readonly IConnectionFactory _connectionFactory;
+        private readonly IConnectionsFactory _connectionFactory;
 
-        public CustomersRepository(IConnectionFactory connectionFactory) { 
+        public CustomersRepository(IConnectionsFactory connectionFactory) { 
         
         _connectionFactory = connectionFactory; 
         

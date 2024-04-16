@@ -23,17 +23,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Ecommerce.Domain.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Ecommerce.Infraestructure.Repository", "..\Pacagroup.Ecommerce.Infraestructure.Repository\Pacagroup.Ecommerce.Infraestructure.Repository.csproj", "{0574097C-763E-4D56-9B64-1FB0CC9072F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Domain.Interfaces", "..\Pacagroup.Ecommerce.Domain.Interfaces\Pacagroup.Ecommerce.Domain.Interfaces.csproj", "{C544547A-9ECD-44BD-86E4-8EA0575AFA60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Ecommerce.Domain.Interfaces", "..\Pacagroup.Ecommerce.Domain.Interfaces\Pacagroup.Ecommerce.Domain.Interfaces.csproj", "{C544547A-9ECD-44BD-86E4-8EA0575AFA60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Domain.Core", "..\Pacagroup.Ecommerce.Domain.Core\Pacagroup.Ecommerce.Domain.Core.csproj", "{AC33DBD7-DA5B-40FE-B7CB-F45EA457DB2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Ecommerce.Domain.Core", "..\Pacagroup.Ecommerce.Domain.Core\Pacagroup.Ecommerce.Domain.Core.csproj", "{AC33DBD7-DA5B-40FE-B7CB-F45EA457DB2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Application.DTO", "..\Pacagroup.Ecommerce.Application.DTO\Pacagroup.Ecommerce.Application.DTO.csproj", "{4CF00BCF-2238-46CA-8D02-2949A8276650}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Ecommerce.Application.DTO", "..\Pacagroup.Ecommerce.Application.DTO\Pacagroup.Ecommerce.Application.DTO.csproj", "{4CF00BCF-2238-46CA-8D02-2949A8276650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Transversal.Mapper", "..\Pacagroup.Ecommerce.Transversal.Mapper\Pacagroup.Ecommerce.Transversal.Mapper.csproj", "{D3A84614-2667-45EE-AB61-DBE6DD1535CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Ecommerce.Transversal.Mapper", "..\Pacagroup.Ecommerce.Transversal.Mapper\Pacagroup.Ecommerce.Transversal.Mapper.csproj", "{D3A84614-2667-45EE-AB61-DBE6DD1535CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Application.Interfaces", "..\Pacagroup.Ecommerce.Application.Interfaces\Pacagroup.Ecommerce.Application.Interfaces.csproj", "{6FB0BB65-592C-49F9-94F5-5AE8ABEC869F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Ecommerce.Application.Interfaces", "..\Pacagroup.Ecommerce.Application.Interfaces\Pacagroup.Ecommerce.Application.Interfaces.csproj", "{6FB0BB65-592C-49F9-94F5-5AE8ABEC869F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Application.Main", "..\Pacagroup.Ecommerce.Application.Main\Pacagroup.Ecommerce.Application.Main.csproj", "{672409CE-DD00-422B-ADA0-1BD11EF66EB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Ecommerce.Application.Main", "..\Pacagroup.Ecommerce.Application.Main\Pacagroup.Ecommerce.Application.Main.csproj", "{672409CE-DD00-422B-ADA0-1BD11EF66EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Services.WebApi", "..\Pacagroup.Ecommerce.Services.WebApi\Pacagroup.Ecommerce.Services.WebApi.csproj", "{DD3F920F-01D2-4EB6-98BC-405D9E19CD22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +87,10 @@ Global
 		{672409CE-DD00-422B-ADA0-1BD11EF66EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{672409CE-DD00-422B-ADA0-1BD11EF66EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{672409CE-DD00-422B-ADA0-1BD11EF66EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3F920F-01D2-4EB6-98BC-405D9E19CD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3F920F-01D2-4EB6-98BC-405D9E19CD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3F920F-01D2-4EB6-98BC-405D9E19CD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3F920F-01D2-4EB6-98BC-405D9E19CD22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +107,7 @@ Global
 		{D3A84614-2667-45EE-AB61-DBE6DD1535CD} = {D91EE38A-4655-451B-BA9C-E0665F4564F6}
 		{6FB0BB65-592C-49F9-94F5-5AE8ABEC869F} = {63FFC0ED-A8BF-4D8A-9ECA-8A092D88B7AD}
 		{672409CE-DD00-422B-ADA0-1BD11EF66EB0} = {63FFC0ED-A8BF-4D8A-9ECA-8A092D88B7AD}
+		{DD3F920F-01D2-4EB6-98BC-405D9E19CD22} = {87D3D335-503B-48B4-844E-41403831C3D3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F9BB5D04-7D13-4FD7-9D03-7B89BDEEA2FA}

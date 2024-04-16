@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.deps.json
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.csproj.CopyComplete
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.pdb

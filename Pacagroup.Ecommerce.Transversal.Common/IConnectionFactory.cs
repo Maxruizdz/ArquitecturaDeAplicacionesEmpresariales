@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Pacagroup.Ecommerce.Transversal.Common
 {
-    public interface IConnectionFactory
+    public interface IConnectionsFactory
     {
 
         IDbConnection GetConnection { get; }

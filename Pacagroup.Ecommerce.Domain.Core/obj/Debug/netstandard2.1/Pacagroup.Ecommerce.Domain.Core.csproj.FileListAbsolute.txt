@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.deps.json
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interfaces.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csproj.CopyComplete
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.pdb

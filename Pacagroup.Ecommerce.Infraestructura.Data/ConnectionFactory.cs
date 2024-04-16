@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 
 namespace Pacagroup.Ecommerce.Infraestructura.Data
 {
-    public class ConnectionFactory : IConnectionFactory
+    public class ConnectionFactory : IConnectionsFactory
     {
         private readonly IConfiguration _configuration;
         public ConnectionFactory(IConfiguration configuration)
