@@ -8,6 +8,7 @@ C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraest
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructura.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructura.Data.AssemblyInfoInputs.cache
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructura.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructura.Data.AssemblyInfo.cs
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructura.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructura.Data.csproj.CoreCompileInputs.cache
-C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructura.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructura.Data.csproj.CopyComplete
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructura.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructura.Data.dll
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructura.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructura.Data.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructura.Data\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructura.Data.sourcelink.json
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Infraestructura.Data\obj\Debug\netstandard2.1\Pacagrou.E800E161.Up2Date

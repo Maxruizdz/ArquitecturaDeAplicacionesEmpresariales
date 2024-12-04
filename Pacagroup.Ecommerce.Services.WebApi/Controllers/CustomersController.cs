@@ -4,7 +4,8 @@ using Pacagroup.Ecommerce.Application.Interfaces;
 
 namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
 {
-
+    [Route("api/[controller]")]
+    [ApiController]
     public class CustomersController : Controller
     {
 
@@ -126,7 +127,7 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
         #endregion
 
 
-        [HttpPost("Async")]
+        [HttpPost("InsertAsync")]
 
         public async Task<IActionResult> InsertAsync([FromBody] CustomersDto customersDto)
         {
@@ -147,7 +148,7 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
 
 
         }
-        [HttpPut("Async")]
+        [HttpPut("UpdateAsync")]
 
         public async Task<IActionResult> UpdateAsync([FromBody] CustomersDto customersDto)
         {
@@ -169,7 +170,7 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
 
         }
 
-        [HttpDelete("Async/{id}")]
+        [HttpDelete("Delete/{id}")]
         public async Task<IActionResult> DeleteAsync(string id)
         {
 
@@ -188,7 +189,7 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
 
 
         }
-        [HttpGet("Async/{id}")]
+        [HttpGet("GetbyId/{id}")]
         public async Task<IActionResult> GetAsync(string id)
         {
 
@@ -209,7 +210,7 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
 
 
         }
-        [HttpGet("Async/All")]
+        [HttpGet("GetAsync/All")]
         public async Task<IActionResult> GetAllAsync()
         {
 
@@ -229,11 +230,7 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
 
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
+      
 
         
     }

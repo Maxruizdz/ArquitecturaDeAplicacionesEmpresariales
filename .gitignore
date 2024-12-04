@@ -22,3 +22,4 @@ rad.json
 TestResults.xml
 *.json
 Into-CQRS-MediatR/appsettings.json
+.vs/

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9XLds4/dEekht6xNH7i7FQifSFNPuavvFNSo4ndAXJJYE0ykk5lWE5vq7YT4mTR5KhAQndGmqm1ThlPUO2ZqnQ==",
+  "dgSpecHash": "2taktQ1wQx0=",
   "success": true,
   "projectFilePath": "C:\\Users\\usuario\\Desktop\\Aplicaciones_Empresariales\\Pacagroup.Ecommerce.Infraestructura.Data\\Pacagroup.Ecommerce.Infraestructura.Data.csproj",
   "expectedPackageFiles": [
@@ -22,5 +22,26 @@
     "C:\\Users\\usuario\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"System.Data.SqlClient\" 4.6.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-8g2p-5pqh-5jmc",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"System.Data.SqlClient\" 4.6.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
 }

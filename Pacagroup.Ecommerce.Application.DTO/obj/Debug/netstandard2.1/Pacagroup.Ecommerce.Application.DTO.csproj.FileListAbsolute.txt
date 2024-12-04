@@ -7,3 +7,4 @@ C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Applicat
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.dll
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.sourcelink.json

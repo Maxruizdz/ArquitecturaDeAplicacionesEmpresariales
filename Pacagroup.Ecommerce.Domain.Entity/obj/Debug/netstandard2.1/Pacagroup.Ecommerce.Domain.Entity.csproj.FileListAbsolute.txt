@@ -7,3 +7,4 @@ C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.E
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.sourcelink.json

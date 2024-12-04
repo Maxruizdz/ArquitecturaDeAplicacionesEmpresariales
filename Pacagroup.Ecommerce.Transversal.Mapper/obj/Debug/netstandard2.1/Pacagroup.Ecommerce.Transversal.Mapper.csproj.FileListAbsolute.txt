@@ -10,6 +10,7 @@ C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Transver
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
-C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CopyComplete
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Mapper.dll
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Mapper.sourcelink.json
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.1\Pacagrou.0B17C7DF.Up2Date

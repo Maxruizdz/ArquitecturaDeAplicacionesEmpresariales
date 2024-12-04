@@ -11,6 +11,8 @@ using Pacagroup.Ecommerce.Infraestructure.Repository;
 using Pacagroup.Ecommerce.Transversal.Common;
 using Pacagroup.Ecommerce.Transversal.Mapper;
 using System.Data;
+using Swashbuckle.AspNetCore.Swagger;
+using Swashbuckle.Swagger;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,15 +27,22 @@ builder.Services.AddSingleton<IConnectionsFactory, ConnectionFactory>();
 builder.Services.AddScoped<ICustomerRepository, CustomersRepository>();
 builder.Services.AddScoped<ICustomerDomain, CustomersDomain>();
 builder.Services.AddScoped<ICustomersApplication, CustomersApplication>();
+
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
+app.UseSwagger();
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+    c.RoutePrefix = string.Empty; // Hace que Swagger UI esté en la raíz
+});
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
 app.UseAuthorization();
 
 app.MapControllers();

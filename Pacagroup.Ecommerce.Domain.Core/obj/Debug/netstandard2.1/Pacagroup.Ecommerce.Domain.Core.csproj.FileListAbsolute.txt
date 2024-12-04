@@ -12,6 +12,7 @@ C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.C
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.AssemblyInfoInputs.cache
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.AssemblyInfo.cs
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csproj.CoreCompileInputs.cache
-C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csproj.CopyComplete
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.dll
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.sourcelink.json
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagrou.97D8180C.Up2Date

@@ -55,9 +55,14 @@ C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\scopedcss\bundle\Pacagroup.Ecommerce.Services.WebApi.styles.css
-C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\Pacagroup.Ecommerce.Services.WebApi.csproj.CopyComplete
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\Pacagroup.Ecommerce.Services.WebApi.dll
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Services.WebApi.dll
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\Pacagroup.Ecommerce.Services.WebApi.pdb
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\Pacagroup.Ecommerce.Services.WebApi.genruntimeconfig.cache
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Services.WebApi.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\Pacagroup.Ecommerce.Services.WebApi.sourcelink.json
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net6.0\Pacagrou.B90DD307.Up2Date
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net6.0\Swashbuckle.Core.dll
