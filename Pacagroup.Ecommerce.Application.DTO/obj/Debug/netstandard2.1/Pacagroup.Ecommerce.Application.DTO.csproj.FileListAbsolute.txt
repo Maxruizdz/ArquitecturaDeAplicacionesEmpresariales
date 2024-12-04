@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.deps.json
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.sourcelink.json

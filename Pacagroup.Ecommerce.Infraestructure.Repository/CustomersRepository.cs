@@ -13,9 +13,9 @@ namespace Pacagroup.Ecommerce.Infraestructure.Repository
     public class CustomersRepository : ICustomerRepository
     {
 
-        private readonly IConnectionFactory _connectionFactory;
+        private readonly IConnectionsFactory _connectionFactory;
 
-        public CustomersRepository(IConnectionFactory connectionFactory) { 
+        public CustomersRepository(IConnectionsFactory connectionFactory) { 
         
         _connectionFactory = connectionFactory; 
         
@@ -160,7 +160,7 @@ namespace Pacagroup.Ecommerce.Infraestructure.Repository
         }
 
 
-        public async Task<Customer >GetAsync(string id)
+        public async Task<Customer>GetAsync(string id)
         {
             using (var connection = _connectionFactory.GetConnection)
             {
@@ -255,4 +255,4 @@ namespace Pacagroup.Ecommerce.Infraestructure.Repository
         }
 
     }
-}
+}  

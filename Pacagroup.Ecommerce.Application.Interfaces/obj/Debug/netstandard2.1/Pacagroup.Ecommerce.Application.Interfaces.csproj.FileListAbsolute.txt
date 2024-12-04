@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.deps.json
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.pdb
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Interfaces.sourcelink.json
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Interfaces\obj\Debug\netstandard2.1\Pacagrou.2D3D8EF1.Up2Date
