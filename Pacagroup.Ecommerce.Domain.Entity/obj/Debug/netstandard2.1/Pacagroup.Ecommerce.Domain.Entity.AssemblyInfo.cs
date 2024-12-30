@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pacagroup.Ecommerce.Domain.Entity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80364489144902aaf01cdb2572b766371e418302")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ec9aacb7a788757c57ee969e8e9f13256c2dda8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pacagroup.Ecommerce.Domain.Entity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pacagroup.Ecommerce.Domain.Entity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
