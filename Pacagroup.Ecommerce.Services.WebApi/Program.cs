@@ -13,6 +13,7 @@ using Pacagroup.Ecommerce.Transversal.Mapper;
 using System.Data;
 using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.Swagger;
+var myPolicy = "policyApiEcommerce";
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +24,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(x=> x.AddProfile(new MappingsProfile()));
+
+builder.Services.AddCors(options => options.AddPolicy(myPolicy, config => config.WithOrigins(builder.Configuration["Config:OriginsCors"])
+                                                                                                                 .AllowAnyHeader()
+                                                                                                                 .AllowAnyMethod()));
+
+
 builder.Services.AddSingleton<IConnectionsFactory, ConnectionFactory>();
 builder.Services.AddScoped<ICustomerRepository, CustomersRepository>();
 builder.Services.AddScoped<ICustomerDomain, CustomersDomain>();
@@ -38,6 +45,9 @@ app.UseSwaggerUI(c =>
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
     c.RoutePrefix = string.Empty; // Hace que Swagger UI esté en la raíz
 });
+
+app.UseCors(myPolicy);
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
