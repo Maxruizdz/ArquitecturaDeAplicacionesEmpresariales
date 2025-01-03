@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pacagroup.Ecommerce.Application.DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b9d035220699a8e3a1fa6cfa4c3ccdc353ee6a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1ffdfc30b796c60b5b595fcdeb540055be36341")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pacagroup.Ecommerce.Application.DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pacagroup.Ecommerce.Application.DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

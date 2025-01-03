@@ -14,11 +14,13 @@ namespace Pacagroup.Ecommerce.Application.Main
     {
         private readonly IUserRepository _userRepository;
         private readonly IMapper _mapper;
+        private readonly IAppLogger<UserApplication> _appLogger;
 
-        public UserApplication(IUserRepository userRepository, IMapper mapper)
+        public UserApplication(IUserRepository userRepository, IMapper mapper, IAppLogger<UserApplication> appLogger)
         {
             _userRepository = userRepository;
             _mapper = mapper;
+            _appLogger = appLogger;
         }
 
         public Response<UserDto> Authenticate(string Username, string Password)

@@ -17,6 +17,7 @@ using Pacagroup.Ecommerce.Services.WebApi.Helpers;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using Pacagroup.Ecommerce.Transversal.Logging;
 var myPolicy = "policyApiEcommerce";
 
 var builder = WebApplication.CreateBuilder(args);
@@ -46,6 +47,7 @@ builder.Services.AddScoped<ICustomersApplication, CustomersApplication>();
 builder.Services.AddScoped<IUserApplication, UserApplication>();
 builder.Services.AddScoped<IUserDomain, UserDomain>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped(typeof(IAppLogger<>), typeof(LoggerAdapter<>));
 
 
 var Key = Encoding.ASCII.GetBytes(appSettingSection.Secret);

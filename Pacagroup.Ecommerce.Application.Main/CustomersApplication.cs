@@ -18,6 +18,8 @@ namespace Pacagroup.Ecommerce.Application.Main
     {
         private readonly ICustomerDomain _customerDomain;
         private readonly IMapper _mapper;
+        private readonly IAppLogger<CustomersApplication> _appLogger;
+
 
         public CustomersApplication(ICustomerDomain customerDomain, IMapper mapper)
         {
@@ -41,6 +43,8 @@ namespace Pacagroup.Ecommerce.Application.Main
 
                     response.IsSuccess = true;
                     response.Message = "Registro Existoso";
+
+                    _appLogger.LogginInformation($"{response.Message}");
                 }
 
 
