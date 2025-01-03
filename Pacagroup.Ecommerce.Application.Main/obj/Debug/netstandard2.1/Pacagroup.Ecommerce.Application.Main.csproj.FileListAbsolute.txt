@@ -20,3 +20,5 @@ C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Applicat
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Main.pdb
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Main.sourcelink.json
 C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.1\Pacagrou.F7DF4168.Up2Date
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.dll
+C:\Users\usuario\Desktop\Aplicaciones_Empresariales\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infraestructure.Interface.pdb

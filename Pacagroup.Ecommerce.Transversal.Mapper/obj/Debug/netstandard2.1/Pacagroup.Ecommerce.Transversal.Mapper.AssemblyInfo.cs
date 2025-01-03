@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pacagroup.Ecommerce.Transversal.Mapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80364489144902aaf01cdb2572b766371e418302")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b9d035220699a8e3a1fa6cfa4c3ccdc353ee6a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pacagroup.Ecommerce.Transversal.Mapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pacagroup.Ecommerce.Transversal.Mapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

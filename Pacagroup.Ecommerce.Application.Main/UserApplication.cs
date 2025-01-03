@@ -23,10 +23,41 @@ namespace Pacagroup.Ecommerce.Application.Main
 
         public Response<UserDto> Authenticate(string Username, string Password)
         {
-            var userBd= _userRepository.Authenticate(Username, Password);
+          
+            if (string.IsNullOrEmpty(Username) || string.IsNullOrEmpty(Password))
+            {
 
-            var ResponseUser= _mapper.Map<UserDto>(userBd);
 
+                return new Response<UserDto> { Message = "Parametros no pueden estar vacios", IsSuccess = false };
+
+
+            }
+
+            try
+            {
+
+
+                var userBd = _userRepository.Authenticate(Username, Password);
+
+                var ResponseUser = _mapper.Map<UserDto>(userBd);
+
+                return new Response<UserDto> { Data = ResponseUser, Message = "Se ha validado el usuario exitosamente", IsSuccess = true };
+
+
+            }
+            catch(InvalidOperationException) 
+            {
+
+                return new Response<UserDto> { IsSuccess = false, Message = "El usuario no existe" };
+            
+            }
+            catch (Exception ex)
+            {
+
+                return new Response<UserDto> { Message = ex.Message, IsSuccess = false };
+
+
+            }
         }
     }
 }
